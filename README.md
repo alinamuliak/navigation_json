@@ -16,4 +16,4 @@ Example of program operation:
 <img src="example.png" alt="example of running the programm"/>
 
 ## License
-[MIT](https://github.com/alinamuliak/twitter_project/blob/main/LICENSE)
+[MIT](https://github.com/alinamuliak/navigation_json/blob/main/LICENSE)
